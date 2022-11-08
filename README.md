@@ -8,7 +8,7 @@ Use the package manager [npm](https://www.npmjs.com/) to install Packages.
 
 ```bash
 #run this command to install all dependences.
-   npm i -g
+   npm i
 ```
 ## Dependencies
 use the package [socket.io](https://socket.io/) for sending and receiving real time messages.
